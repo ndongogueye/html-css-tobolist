@@ -1,0 +1,128 @@
+ * {
+    margin: 0px;
+    box-sizing: border-box;
+ }
+ body {
+    background-color: lightgray
+ }
+ header {
+    background-color: white;
+ }
+h1{
+    display: inline;
+    vertical-align: top;
+}
+
+main {
+    background-color: white;
+    margin-top: 50px;
+width: 900px;
+
+height: 100vh;
+margin: auto;
+margin-top: 50px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottone1,.bottone2 {
+display: inline;
+margin-right: 5px ;
+padding: 3px;
+}
+
+.bottone1 {
+    color: white;
+    background-color:rgb(120, 193, 223);
+    border-radius: 6px;
+}
+
+.bottone2 {
+    color: rgb(221, 213, 213);
+    background-color: white;
+    border-radius: 6px;
+}
+
+div {
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.blu {
+    background-color:rgb(120, 193, 223);
+    padding: 4px;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+h2 {
+   font-size: 1em;
+   font-family: Arial, Helvetica, sans-serif;
+}
+section {
+    padding-left:3em ;
+}
+
+p {
+    padding-top: 0.5em;
+    
+    
+}
+section {
+padding-top: 1.5em;
+}
+
+.viola {
+    background-color: rgb(130, 66, 214);
+    padding: 4px;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.verde {
+    background-color: rgb(60, 211, 128);
+    padding: 4px;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.arancione {
+    background-color: rgb(243, 148, 24);
+    padding: 4px;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.rosa {
+    background-color: rgb(221, 83, 147);
+    padding: 4px;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+}
+
+.lime {
+    background-color: rgb(100, 209, 86);
+    padding: 4px;
+    border-radius: 8px;
+    color: white;
+    font-size: 10px; 
+}
+
+.cross {
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 1px
+}
+
+.check {
+    background-color: white;
+    width: ;
+    border: solid 1px;
+    border-radius: 10px;
+    
+}
